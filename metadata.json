@@ -1,0 +1,8 @@
+{
+  "name": "Remix DY Calculator",
+  "description": "A scientific calculator for Android, iOS, and Web with advanced mathematical functions, custom themes, history, and scientific modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
